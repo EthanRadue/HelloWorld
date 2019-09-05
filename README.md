@@ -1,5 +1,5 @@
 **Name** Ethan Radue
 
-**AssignmentName** Assignment 1A: Create Glitch Account and Page
+**AssignmentName** Assignment 2A: GitHub
 
-**Date** September 3rd 2019
+**Date** September 5th 2019
